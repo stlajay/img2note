@@ -1,7 +1,7 @@
 {
     "name": "barber-jekyll",
     "description": "Barber is a blog theme for Jekyll using HTML, Sass, and JavaScript.",
-    "demo": "http://ajay0th.github.io",
+    "demo": "http://sltajay.github.io",
     "version": "1.0.0",
     "scripts": {
       "start": "bundle exec jekyll serve",
@@ -16,9 +16,9 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/ajay0th/ajay0th.github.io.git"
+      "url": "https://github.com/sltajay/sltajay.github.io.git"
     },
-    "bugs": "https://github.com/ajay0th/ajay0th.github.io/issues",
+    "bugs": "https://github.com/sltajay/sltajay.github.io/issues",
     "keywords": [
       "barber",
       "jekyll",

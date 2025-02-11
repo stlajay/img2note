@@ -31,8 +31,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /stories/:title/
 google_analytics:
 
-twitter_username: 
-github_username:  ajay0th
+twitter_username: astklhiy
+github_username:  sltajay
 
 # Build settings
 markdown: kramdown
